@@ -1,17 +1,16 @@
 {
-	"class" : {
-		"properties" : {
+	"properties" : {
 			"title" : {
-				"type" : "string"
+				"type" : "text"
 			},
 			"professor" : {
-				"type" : "string"
+				"type" : "text"
 			},
 			"major" : {
-				"type" : "string"
+				"type" : "text"
 			},
 			"semester" : {
-				"type" : "string"
+				"type" : "text"
 			},
 			"student_count" : {
 				"type" : "integer"
@@ -29,6 +28,5 @@
 			"school_location" : {
 				"type" : "geo_point"
 			}
-		}
 	}
 }
